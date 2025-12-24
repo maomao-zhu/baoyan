@@ -1,0 +1,15 @@
+{
+  "src": [
+    "pages/LoginPage",
+    "pages/Index",
+    "pages/HomePage",
+    "pages/ProjectPage",
+    "pages/TongJiPage",
+    "pages/MinePage",
+    "pages/XueKeJIngSaiPage",
+    "pages/SheHuiShiJianPage",
+    "pages/XinXiShnagChuanPage",
+    "pages/Shenhe",
+    "pages/ManagementPage"
+  ]
+}

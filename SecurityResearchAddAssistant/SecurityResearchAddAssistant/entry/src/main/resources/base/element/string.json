@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "保研小助手"
+    },
+    {
+      "name": "app_name",
+      "value": "LoginApp"
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "需要网络权限进行登录验证"
+    },
+    {
+      "name": "network_info_permission_reason",
+      "value": "需要获取网络状态信息"
+    },
+    {
+      "name": "permission_image_reason",
+      "value": "为了帮您上传加分项的证明材料（如竞赛获奖证书、科研成果证明），需要访问您设备中的图片，请您授权。"
+    },
+    {
+      "name": "permission_image_deny_tip",
+      "value": "您已拒绝图片访问权限，将无法上传证明材料。若需开启，请在系统设置→应用→保研加分小助手→权限中开启“图片访问”权限。"
+    },
+    {
+      "name": "read_media_permission_reason",
+      "value": "读取相册用于选择证明图片"
+    }
+  ]
+}
